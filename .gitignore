@@ -1,0 +1,4 @@
+printer-*.cfg
+old/
+*.bkp
+lib/klipper-macros/
